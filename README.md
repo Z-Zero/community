@@ -24,5 +24,4 @@
         GMT_MODIFIED BIGINT
     )
     
-
 ```
