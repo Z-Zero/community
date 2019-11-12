@@ -33,10 +33,4 @@
         GMT_CREATE BIGINT,
         GMT_MODIFIED BIGINT
     )
-    
-<<<<<<< HEAD
 ```
-=======
-
-```
->>>>>>> fb1027a50bc0058c6cffadb0779878060432ca43
